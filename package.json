@@ -1,0 +1,15 @@
+{
+	"private": true,
+	"name": "@smotaal/fragma",
+	"version": "0.0.0-alpha.1",
+	"exports": {},
+	"scripts": {
+		"serve": "http-server --cors -s"
+	},
+	"dependencies": {
+		"@types/node": "latest",
+		"prettier": "latest",
+		"typescript": "latest",
+		"http-server": "latest"
+	}
+}
